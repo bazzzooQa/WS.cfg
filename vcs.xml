@@ -10,8 +10,12 @@
           <option name="url" value="git@gitlab.ms4.work:motorsport.tv-oxagile/moto-frontend-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/motorsport-russia/react-starter-kit.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/code" />
+    <option name="cloneParentDir" value="/Volumes/Macintosh HDD/GitHub" />
   </component>
 </application>
