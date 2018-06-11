@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="getDriverVenueRecordStats" type="JavaScript" />
       <mapping pattern="ForixInFocus.js" type="PLAIN_TEXT" />
+      <mapping pattern="drivers.js" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
