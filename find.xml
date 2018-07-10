@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -13,6 +13,27 @@
       <mask>*.mxml</mask>
       <mask>*.css</mask>
       <mask>*.js</mask>
+      <mask>fa</mask>
+      <mask>fav</mask>
+      <mask>favic</mask>
+      <mask>favico</mask>
+      <mask>favicon</mask>
+      <mask>favicon.ico</mask>
+      <mask>favicon.ic</mask>
+      <mask>favicon.i</mask>
+      <mask>favicon.</mask>
+      <mask>favicon.o</mask>
+      <mask>favicon.ong</mask>
+      <mask>favicon.on</mask>
+      <mask>p</mask>
+      <mask>.ong</mask>
+      <mask>.on</mask>
+      <mask>.o</mask>
+      <mask>.png</mask>
+      <mask>.pn</mask>
+      <mask>.p</mask>
+      <mask>.</mask>
+      <mask>.ico</mask>
     </recentFileMasks>
   </component>
 </application>
