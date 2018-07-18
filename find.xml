@@ -3,37 +3,15 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
-      <mask>*.css</mask>
-      <mask>*.js</mask>
-      <mask>fa</mask>
-      <mask>fav</mask>
-      <mask>favic</mask>
-      <mask>favico</mask>
-      <mask>favicon</mask>
-      <mask>favicon.ico</mask>
-      <mask>favicon.ic</mask>
-      <mask>favicon.i</mask>
-      <mask>favicon.</mask>
-      <mask>favicon.o</mask>
-      <mask>favicon.ong</mask>
-      <mask>favicon.on</mask>
-      <mask>p</mask>
-      <mask>.ong</mask>
-      <mask>.on</mask>
-      <mask>.o</mask>
-      <mask>.png</mask>
-      <mask>.pn</mask>
-      <mask>.p</mask>
-      <mask>.</mask>
-      <mask>.ico</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.js" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
