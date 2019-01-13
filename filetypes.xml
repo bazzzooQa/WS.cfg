@@ -5,7 +5,6 @@
       <mapping pattern="EventMenu" type="JavaScript" />
       <mapping pattern="ForixInFocus.js" type="PLAIN_TEXT" />
       <mapping pattern="drivers.js" type="PLAIN_TEXT" />
-      <mapping ext="twig" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
