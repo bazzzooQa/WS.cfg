@@ -4,7 +4,7 @@
     <property name="created">2017-11-29T10:12:04</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.2.5.0.0</property>
-    <property name="modified">2019-02-03T17:18:58</property>
+    <property name="modified">2019-04-22T10:29:36</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -1393,7 +1393,14 @@
     </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff6b68" />
+        <option name="FOREGROUND" value="ff1c21" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LOG_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="d34026" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="Label">
